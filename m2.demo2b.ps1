@@ -178,12 +178,10 @@ New-AzureRmVM `
 -Location $rg.Location `
 -VM $LinuxVMConfig
 
+#Get the Public IP address of the VM created.
+$MyIP = New-AzureRmPublicIPAddress `
+-ResourceGroupName $rg.ResourceGroupName `
+-Name $pip.Name | Select-Object -ExpandProperty IpAddress
 
-$LinuxVMConfig
-
-
-
-
-#New-AzureRmVM -ResourceGroupName $rg.ResourceGroupName -Location $rg.Location -VM $LinuxVMConfig -Verbose
-#Get-AzureRMComputeResourceSku | where {$_.Locations -icontains "centralus"}
-#$vm = Set-AzureRmVMBootDiagnostics -VM $LinuxVMConfig -enable -ResourceGroupName $rg.ResourceGroupName -StorageAccountName "freerg02psde122117480"
+#Connect to Our Vm  via SSH
+ssh -l demoadmin $MyIP
