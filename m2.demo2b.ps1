@@ -185,3 +185,54 @@ $MyIP = New-AzureRmPublicIPAddress `
 
 #Connect to Our Vm  via SSH
 ssh -l demoadmin $MyIP
+
+
+#Lets Create Windows VM with little less code using POWERSHELL SPLATTING.
+
+#Craete Windows Creds Objects this will use for WINDOWS username/password
+$WindowsPassword = ConvertTo-SecureString "Password1234$%^" -AsPlainText -Force
+$WindowsCred = New-Object System.Management.Automation.PSCredential ("demoadmin", $WindowsPassword)
+
+#We are using the image name parameter for the list of images.
+New-AzureRmvm -Image
+
+$vmParams = @{
+    ResourceGroupName = 'RG02'
+    Name = 'psdemo-win-2'
+    Location = 'centralus'
+    Size = 'Standard_B1ms'
+    Image = 'Win2016Datacenter'
+    PublicIpAddressName = 'psdesmo-win-2-pip-2'
+    Credential = $WindowsCred
+    VirtualNetworkName = 'psdemo-vnet-2'
+    SubnetName = 'psdemo-subnet-2'
+    SecurityGroupName = 'psdemo-win-nsg-2'
+    OpenPorts = 3389
+}
+
+#This command will crete the VM and get all the properties of vm what is written inside vmParams  
+New-AzureRmVM @vmParams
+
+#Get the Public IP address of the VM created.
+Get-AzureRmPublicIPAddress `
+-ResourceGroupName $rg.ResourceGroupName `
+-Name 'psdesmo-win-2-pip-2' | Select-Object -ExpandProperty IpAddress
+
+
+Get-AzureRmVM -Name 'psdemo-win-' -ResourceGroupName RG02 -Status
+
+Get-AzureRmvm -Name 'psdemo-win-2' -ResourceGroupName RG02 -Status
+
+Get-AzureRmVm -name 'psdemo-win-2' -ResourceGroupName RG02 -Status | select Statuses | select displayStatus
+
+#This is the command to check the Stauts of VM is it Running or stopped.
+((Get-AzureRmVM -ResourceGroupName "RG02" -Name "psdemo-win-2" -Status).Statuses[1]).code
+
+#Stop Azure VM Command
+
+Stop-AzureRmVM -ResourceGroupName "RG02" -Name "psdemo-win-2" -Force
+
+
+get-azurermvm -ResourceGroupName "RG02" | foreach {start-azurermvm -Name $_.Name -ResourceGroupName "RG02" }
+
+get-azurermvm -ResourceGroupName "RG02" | foreach {stop-azurermvm -Name $_.Name -ResourceGroupName "RG02" -Confirm:$false -Force }
