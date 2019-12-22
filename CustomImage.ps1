@@ -93,3 +93,10 @@ Get-AzureRMVm `
 -ResourceGroupName $rg.ResourceGroupName `
 -ImageName 'psdemo-win-c1-1'
 
+
+get-azurermvm -ResourceGroupName 'Rg02' 
+
+((Get-AzureRmVM -ResourceGroupName "RG02" -Name "psdemo-win-1c" -Status).Statuses[1]).code
+
+Stop-AzureRmVM -ResourceGroupName 'RG02' -Name 'psdemo-win-1c' -Confirm:$false -Force
+
