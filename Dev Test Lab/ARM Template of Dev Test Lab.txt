@@ -1,0 +1,107 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "newVMName": {
+      "type": "string",
+      "defaultValue": "taimurstrang001"
+    },
+    "labName": {
+      "type": "string",
+      "defaultValue": "psdemo-lab"
+    },
+    "size": {
+      "type": "string",
+      "defaultValue": "Standard_DS1_v2"
+    },
+    "userName": {
+      "type": "string",
+      "defaultValue": "demoadmin"
+    },
+    "sshKey": {
+      "type": "securestring",
+      "defaultValue": "[[[ssh-public-key]]"
+    },
+    "YUM_Package_packages": {
+      "type": "string",
+      "defaultValue": "httpd"
+    },
+    "YUM_Package_update": {
+      "type": "string",
+      "defaultValue": "false"
+    },
+    "YUM_Package_options": {
+      "type": "string",
+      "defaultValue": ""
+    }
+  },
+  "variables": {
+    "labSubnetName": "[concat(variables('labVirtualNetworkName'), 'Subnet')]",
+    "labVirtualNetworkId": "[resourceId('Microsoft.DevTestLab/labs/virtualnetworks', parameters('labName'), variables('labVirtualNetworkName'))]",
+    "labVirtualNetworkName": "[concat('Dtl', parameters('labName'))]",
+    "vmId": "[resourceId ('Microsoft.DevTestLab/labs/virtualmachines', parameters('labName'), parameters('newVMName'))]",
+    "vmName": "[concat(parameters('labName'), '/', parameters('newVMName'))]"
+  },
+  "resources": [
+    {
+      "apiVersion": "2018-10-15-preview",
+      "type": "Microsoft.DevTestLab/labs/virtualmachines",
+      "name": "[variables('vmName')]",
+      "location": "[resourceGroup().location]",
+      "properties": {
+        "labVirtualNetworkId": "[variables('labVirtualNetworkId')]",
+        "notes": "Free SQL Server License: SQL Server 2017 Developer on Red Hat Enterprise Linux 7.4 (RHEL)",
+        "galleryImageReference": {
+          "offer": "SQL2017-RHEL7",
+          "publisher": "MicrosoftSQLServer",
+          "sku": "SQLDEV",
+          "osType": "Linux",
+          "version": "latest"
+        },
+        "size": "[parameters('size')]",
+        "userName": "[parameters('userName')]",
+        "sshKey": "[parameters('sshKey')]",
+        "isAuthenticationWithSshKey": true,
+        "artifacts": [
+          {
+            "artifactId": "[resourceId('Microsoft.DevTestLab/labs/artifactSources/artifacts', parameters('labName'), 'public repo', 'linux-yum-package')]",
+            "parameters": [
+              {
+                "name": "packages",
+                "value": "[parameters('YUM_Package_packages')]"
+              },
+              {
+                "name": "update",
+                "value": "[parameters('YUM_Package_update')]"
+              },
+              {
+                "name": "options",
+                "value": "[parameters('YUM_Package_options')]"
+              }
+            ]
+          }
+        ],
+        "labSubnetName": "[variables('labSubnetName')]",
+        "disallowPublicIpAddress": true,
+        "storageType": "StandardSSD",
+        "allowClaim": false,
+        "networkInterface": {
+          "sharedPublicIpAddressConfiguration": {
+            "inboundNatRules": [
+              {
+                "transportProtocol": "tcp",
+                "backendPort": 22
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "outputs": {
+    "labVMId": {
+      "type": "string",
+      "value": "[variables('vmId')]"
+    }
+  }
+}

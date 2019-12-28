@@ -143,8 +143,9 @@ $LinuxVMConfig = Set-AzureRmVMOperatingSystem `
 
 #To generate SSH do below:
 #open command prompt (cmd)
-#enter ssh-keygen szand press enter
+#enter ssh-keygen and press enter
 #press enter to all settings. now your key is saved in c:\Users\.ssh\id_rsa.pub
+#To check the ssh in cmd type   TYPE id_rsa
 #Open your git client and set it to use open SSH
 
 #echo $sshpublickey
@@ -225,6 +226,9 @@ Get-AzureRmvm -Name 'psdemo-win-2' -ResourceGroupName RG02 -Status
 
 Get-AzureRmVm -name 'psdemo-win-2' -ResourceGroupName RG02 -Status | select Statuses | select displayStatus
 
+#Get all the VMs in resourcegroup
+get-azurermvm | select name , location | Format-List
+
 #This is the command to check the Stauts of VM is it Running or stopped.
 ((Get-AzureRmVM -ResourceGroupName "RG02" -Name "psdemo-win-2" -Status).Statuses[1]).code
 
@@ -236,3 +240,43 @@ Stop-AzureRmVM -ResourceGroupName "RG02" -Name "psdemo-win-2" -Force
 get-azurermvm -ResourceGroupName "RG02" | foreach {start-azurermvm -Name $_.Name -ResourceGroupName "RG02" }
 
 get-azurermvm -ResourceGroupName "RG02" | foreach {stop-azurermvm -Name $_.Name -ResourceGroupName "RG02" -Confirm:$false -Force }
+
+
+#VM SECRETES 
+#vmwindows  Taimur1.
+#ssh-public-key 
+#ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCnqT3Nz1cuV4a/4nt5ww4yfqp/HKrtKiPDp+ybZ3/qfWlmCCNFB7SGZBL5biPPNmQuWCEufIFsS7EbevaIM9iRGvTpGG5qok7AcCgAyum2WFuFYnTiA/44YuCkNJeLKt6CptxADdDMmCgxgKxyJht6bVCU4STl7Ywr+UfTBHhGORupz347Tt4ckOzTw1CEy1LnOgARBDv49Kvam9B94G8HDr1rrkuhty7Mr7WZquF5PhYuGmENV9DbgiVodOESubKgfnRj29O7FaGzJgbsYvHOvUnT9jDC8s43ArpHjYiR/W9r+V1RDubB14gd3bwzWRPiQYdQr09FPVcahv+S/CXt taimur@DESKTOP-QIE9VOO
+
+#gMeIBQO80l6jJtvBZ8lpDZQqexmwN/zgP9lbboTF7oQ taimur@DESKTOP-QIE9VOO
+
+
+
+
+#-----BEGIN RSA PRIVATE KEY-----
+#MIIEowIBAAKCAQEAsC52F+N4YbWbo8+2/XOFqLRz8D3uSv3UhcbRucplQnh/EZdn
+#kk6MHTtChoTKMKpmc7cgNnIE9BuEHCVoSIWEIKpLHCc/XkRHvNFHIJh7VHsteB/C
+#biuNX47B4ytp0DgCET1nIJa9PI1yGK8gx+gFlhzbXt4D4WWyabVYF949xo/Y3WdK
+#FF0oEn0GLF1fDNBtkUlSJlY+72YsgBOlZiQ/U9pAcg6WVe+ijtmhp2ifjwXIgf6d
+#AXbFH+6p/wKeLETFyn7OAO/N53oqCAnSdji2pyoa4E9QGdalbxY4d64qSzbcRwKm
+#5FYTM1jnpIZXeBYztS0cJxe482eOb7JM46LOKQIDAQABAoIBAQCetdwQfQwPCWjh
+#0tbHz2+SoKzouQGXcL4onQiFU/yQOrhNgpT8yeGS27V8NNdnq7mLeGZ+ZYxs0vTZ
+#3iDpY825F29+NyTwqJXvVJ+8j2BapHQ7iHDAil9au+GR4aP6vNmv6h6izug+SjWE
+#Yw8mxq9xoSFFfr8EJ3bnn0NyjPQdkCvRTyx4qqiBUJvf7p0vLP669iNXzYptxYyf
+#5TPIN0nZDyC7qji762oitIJfXTeWoPQb/d9aIFvNpyjAdUA5v8Pzq5U96Javb7/M
+#F71yjANfpVGiCk3lH1TzPd8SxuzkGdjKb9/iL9HFVve6Nk29lQ3LZLRzqpVwxSgP
+#41eFqhEBAoGBAOi/y9V6P6Fzn/22fqqoYOHUS5+F7ZkMzHdI93G9GPxxHxS+x/86
+#VJfxXgfYh+1kyIlEKgZio/5QavH8SmojrGRX8c032QB5lX2W8CCEnUPOrBh3/ckr
+#BMH/jS7EecNP6UnjM6tc6z6GdSVsKxhHZaTk7Wqyvb7fL9EySDhWr7LRAoGBAMHI
+#CFaR/AK9Yqbk0EcT8BsKdSZZ4ZMcyJSTKNj3k5CWtG7j9VZFwuzt2NMAxY5SnZFm
+#SYMiMZ45S8nyX0GgpetmxpVuq+vlLhI/X/yaYfxbPiG8IyXAr6iBHoxhnW0eA+5H
+#/BGgPSu9s8UPP8yIfEQf/3LoXbfyOmOs+nyUgUvZAoGAflAwoC+TPtzQVFHpVlbB
+#FW4wiGeXtbsTcB1CZRC58a62rnyHb8VJSZitblaeFkDe8Ff08rgvxgIAuEkyXX30
+#vhRYXwZTF4Xkkl8K/Krb6oPMNA9SxQ06rMoy5dGtP0ksE3RhgzuPU8SG6QNWM/vz
+#dtTi4EgW3/KiMcc3GJQ7EDECgYASJiPxx7Zso0QsEV4YahugzLfwIZbo6lc24xl+
+#SKG/dv3rLNp7fAknm5clG/tkuwQa7BOSfo9bHE6m2VZmlR81DukmcbkUXOCVwO3C
+#gMsQkZMeIbrA/Gz3QTCVQUc3QwpnNMK8+97+y8OcfzMget/4mW6ZWn38jmk9kKPd
+#KyN48QKBgAlpt3jW5DJNG5KnyTkN1GNxRXP4kj6oEf/OPDv/fXdF/TP8OxpdT2/t
+#gI7pz8JDjAcqbteAcEDmxW3G8QlumZwcJqcnU7AyZstUI8JU9XhSRX4LqQFFAFIx
+#iWbe3qqzPcp7SBZyKZ+wfdWlR1IVMiTSJWSkyW7VkwNF4gIP0Niz
+#-----END RSA PRIVATE KEY-----
+
