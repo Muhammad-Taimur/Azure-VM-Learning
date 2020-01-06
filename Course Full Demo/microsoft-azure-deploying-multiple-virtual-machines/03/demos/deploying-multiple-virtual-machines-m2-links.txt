@@ -1,0 +1,38 @@
+Module 2: Configuring ARM Templates for Multi-VM Deployment
+
+Microsoft Azure
+https://azure.microsoft.com/en-us/
+
+Azure Documentation
+https://docs.microsoft.com/en-us/azure/
+
+Azure Architecture Center
+https://docs.microsoft.com/en-us/azure/architecture/
+
+Azure Subscription and Service Limits
+https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
+
+What is role-based access control (RBAC) in Azure? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+
+Overview of Azure Policy | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-policy/azure-policy-introduction
+
+Free IDE and Developer Tools | Visual Studio Community
+https://visualstudio.microsoft.com/vs/community/
+
+Visual Studio Azure resource group projects | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/vs-azure-tools-resource-groups-deployment-projects-create-deploy
+
+Create and deploy an Azure Resource Manager template by using the Azure portal | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal
+
+Deploy multiple instances of Azure resources | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-multiple
+
+Azure Quickstart Templates
+https://azure.microsoft.com/en-us/resources/templates/
+
+Deploy resources with PowerShell and template | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy
+deploy template powershell

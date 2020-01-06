@@ -1,0 +1,26 @@
+Resources for the Confidential Compute Module
+----------------------------------------------
+
+https://azure.microsoft.com/en-ca/solutions/confidential-compute/
+https://msdn.microsoft.com/magazine/mt833273
+https://www.youtube.com/watch?v=Qu6sP0XDMU8&feature=youtu.be
+https://azure.microsoft.com/en-ca/blog/azure-confidential-computing/
+https://www.microsoft.com/en-us/research/uploads/prod/2018/08/Confidental_Computing_Mark-Russinovich_Manuel-Costa.pdf
+https://azure.microsoft.com/en-ca/blog/protect-data-in-use-with-the-public-preview-of-azure-confidential-computing/
+https://en.wikipedia.org/wiki/Software_Guard_Extensions
+https://software.intel.com/en-us/blogs/2018/11/08/microsoft-azure-confidential-computing-with-intel-sgx
+https://openenclave.io/sdk/
+
+https://github.com/Microsoft/openenclave
+https://github.com/Microsoft/openenclave/blob/master/docs/GettingStartedDocs/install_oe_sdk-Ubuntu_18.04.md
+https://github.com/Microsoft/openenclave/blob/master/docs/GettingStartedDocs/using_oe_sdk.md
+https://github.com/Microsoft/openenclave/blob/master/docs/GettingStartedDocs/Contributors/building_oe_sdk.md
+https://github.com/Microsoft/openenclave/blob/master/samples/README.md
+https://github.com/Microsoft/openenclave/blob/master/samples/README.md#how-to-build-and-run-samples
+https://github.com/Microsoft/openenclave/blob/master/samples/README.md#common-sample-information
+https://github.com/Microsoft/openenclave/blob/master/docs/GettingStartedDocs/Edger8rGettingStarted.md
+https://github.com/Microsoft/openenclave/blob/master/samples/helloworld/README.md
+
+https://msdn.microsoft.com/en-us/magazine/mt833409.aspx?f=255&MSPPError=-2147217396
+https://cloudblogs.microsoft.com/sqlserver/2018/12/17/confidential-computing-using-always-encrypted-with-secure-enclaves-in-sql-server-2019-preview
+

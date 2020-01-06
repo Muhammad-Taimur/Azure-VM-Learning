@@ -1,0 +1,10 @@
+https://docs.microsoft.com/en-us/azure/app-service/custom-dns-web-site-buydomains-web-app
+https://docs.microsoft.com/en-us/azure/app-service/web-sites-purchase-ssl-web-site
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-ssl
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+https://social.msdn.microsoft.com/Forums/azure/en-US/9dace9cb-a1a8-4f77-af26-324bc2b6740e/tls-plans-for-azure-app-service?forum=windowsazurewebsitespreview
+https://blogs.msdn.microsoft.com/appserviceteam/2018/04/17/app-service-and-functions-hosted-apps-can-now-update-tls-versions/
+https://blogs.msdn.microsoft.com/benjaminperkins/2017/04/12/export-an-azure-app-service-certificate-pfx-powershell/
+
+
+
