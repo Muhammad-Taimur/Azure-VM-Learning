@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ColorWebsite.Api</name>
+    </assembly>
+    <members>
+        <member name="T:ColorWebsite.Api.Controllers.ColorController">
+            <summary>
+            Manages colors in the database
+            </summary>
+        </member>
+        <member name="M:ColorWebsite.Api.Controllers.ColorController.Get">
+            <summary>
+            Gets all the names of the colors in the database
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

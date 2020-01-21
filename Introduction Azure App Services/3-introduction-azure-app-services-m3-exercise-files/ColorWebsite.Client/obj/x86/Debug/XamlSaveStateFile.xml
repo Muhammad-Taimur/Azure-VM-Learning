@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\demo\colorwebsite\colorwebsite.client\obj\x86\debug\intermediatexaml\colorwebsitemobile.windows.exe" HashGuid="1bd9431f-81de-85cf-fe14-d5f0f0ed6dcb" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\barry luijbregts\documents\results\colorwebsite\packages\microsoft.azure.mobile.client.2.0.1\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="d7ccb84c-759c-fa2f-e873-8857cbb0622e" />
+    <ReferenceAssembly PathName="c:\users\barry luijbregts\documents\results\colorwebsite\packages\microsoft.azure.mobile.client.2.0.1\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="8e717174-2dda-06be-e0d7-9ee261acde16" />
+    <ReferenceAssembly PathName="c:\users\barry luijbregts\documents\results\colorwebsite\packages\microsoft.azure.mobile.client.sqlitestore.2.0.1\lib\portable-win+net45+wp8+wpa81+monotouch+monoandroid\microsoft.windowsazure.mobile.sqlitestore.dll" HashGuid="02c18a78-92cd-2ea6-55be-f0351e8888cd" />
+    <ReferenceAssembly PathName="c:\users\barry luijbregts\documents\results\colorwebsite\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="c:\users\barry luijbregts\documents\results\colorwebsite\packages\sqlitepcl.3.8.7.2\lib\netcore451\sqlitepcl.dll" HashGuid="a405761a-bd1d-dc16-54b5-36df2e9981c5" />
+    <ReferenceAssembly PathName="c:\users\barry luijbregts\documents\results\colorwebsite\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\barry luijbregts\documents\results\colorwebsite\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

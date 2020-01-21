@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="PluralsightColorWebsite_db-Web.config Connection String" description="PluralsightColorWebsite_db Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:pluralsightdemo.database.windows.net,1433;Database=PluralsightColorWebsite_db;User ID=b.luijbregts@pluralsightdemo;Password=Carnavalesk2024;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Demo\\ColorWebsite\\ColorWebsite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PluralsightColorWebsite_db']/@connectionString" />
+  </parameter>
+  <parameter name="ColorWebsite.Data.DataContext-Web.config Connection String" description="ColorWebsite.Data.DataContext Connection String used in web.config by the application to access the database." defaultValue="ColorWebsite.Data.DataContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Demo\\ColorWebsite\\ColorWebsite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ColorWebsite.Data.DataContext']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,270 @@
+D:\Demo\ColorWebsite\ColorWebsite.Backend\obj\Debug\ColorWebsite.Backend.csprojResolveAssemblyReference.cache
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.Net4.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\App.config
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\colorwebsitemobileService.dll.config
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\colorwebsitemobileService.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\colorwebsitemobileService.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ColorWebsite.Data.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\EntityFramework.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\EntityFramework.SqlServer.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Authentication.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Entity.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Home.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Notifications.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Quickstart.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Tables.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.NotificationHubs.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Data.Edm.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Data.OData.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.Security.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Newtonsoft.Json.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Owin.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Net.Http.Formatting.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Spatial.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.OData.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.Owin.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.Tracing.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ColorWebsite.Data.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Authentication.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Entity.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Home.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Notifications.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Quickstart.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Tables.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\EntityFramework.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\EntityFramework.SqlServer.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.OData.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.NotificationHubs.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Net.Http.Formatting.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Newtonsoft.Json.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.Owin.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.Security.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.Net4.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Data.Edm.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Data.OData.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Spatial.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.Tracing.xml
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\de\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\es\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\fr\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\it\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ja\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ko\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\ru\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\obj\Debug\colorwebsitemobileService.dll
+D:\Demo\ColorWebsite\ColorWebsite.Backend\obj\Debug\colorwebsitemobileService.pdb
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.Net4.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\App.config
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\colorwebsitemobileService.dll.config
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\colorwebsitemobileService.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\colorwebsitemobileService.pdb
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ColorWebsite.Data.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\EntityFramework.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\EntityFramework.SqlServer.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Authentication.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Entity.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Home.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Notifications.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Quickstart.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Tables.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.NotificationHubs.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Data.Edm.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Data.OData.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.Security.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Newtonsoft.Json.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Owin.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Net.Http.Formatting.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Spatial.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.OData.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.Owin.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.Tracing.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ColorWebsite.Data.pdb
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Authentication.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Entity.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Home.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Notifications.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Quickstart.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.Mobile.Server.Tables.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\EntityFramework.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\EntityFramework.SqlServer.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.OData.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Azure.NotificationHubs.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Net.Http.Formatting.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Newtonsoft.Json.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.Owin.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Owin.Security.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.pdb
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\AutoMapper.Net4.pdb
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Data.Edm.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\Microsoft.Data.OData.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Spatial.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\System.Web.Http.Tracing.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Notifications.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\de\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\es\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\fr\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\it\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ja\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ko\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\ru\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\obj\Debug\ColorWebsite.Backend.csprojResolveAssemblyReference.cache
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\obj\Debug\colorwebsitemobileService.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Backend\obj\Debug\colorwebsitemobileService.pdb

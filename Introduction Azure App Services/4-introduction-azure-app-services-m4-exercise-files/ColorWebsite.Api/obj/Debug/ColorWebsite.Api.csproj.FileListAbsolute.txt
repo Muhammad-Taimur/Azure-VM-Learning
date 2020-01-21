@@ -1,0 +1,57 @@
+D:\Demo\m4\ColorWebsite.Api\bin\ColorWebsite.Api.dll.config
+D:\Demo\m4\ColorWebsite.Api\bin\ColorWebsite.Api.dll
+D:\Demo\m4\ColorWebsite.Api\bin\ColorWebsite.Api.pdb
+D:\Demo\m4\ColorWebsite.Api\bin\EntityFramework.dll
+D:\Demo\m4\ColorWebsite.Api\bin\EntityFramework.SqlServer.dll
+D:\Demo\m4\ColorWebsite.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Demo\m4\ColorWebsite.Api\bin\Newtonsoft.Json.dll
+D:\Demo\m4\ColorWebsite.Api\bin\Swashbuckle.Core.dll
+D:\Demo\m4\ColorWebsite.Api\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Demo\m4\ColorWebsite.Api\bin\System.Net.Http.Formatting.dll
+D:\Demo\m4\ColorWebsite.Api\bin\System.Web.Http.dll
+D:\Demo\m4\ColorWebsite.Api\bin\System.Web.Http.WebHost.dll
+D:\Demo\m4\ColorWebsite.Api\bin\WebActivatorEx.dll
+D:\Demo\m4\ColorWebsite.Api\bin\EntityFramework.xml
+D:\Demo\m4\ColorWebsite.Api\bin\EntityFramework.SqlServer.xml
+D:\Demo\m4\ColorWebsite.Api\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Demo\m4\ColorWebsite.Api\bin\Newtonsoft.Json.xml
+D:\Demo\m4\ColorWebsite.Api\bin\System.Net.Http.Formatting.xml
+D:\Demo\m4\ColorWebsite.Api\bin\System.Web.Http.xml
+D:\Demo\m4\ColorWebsite.Api\bin\System.Web.Http.WebHost.xml
+D:\Demo\m4\ColorWebsite.Api\obj\Debug\ColorWebsite.Api.csprojResolveAssemblyReference.cache
+D:\Demo\m4\ColorWebsite.Api\obj\Debug\ColorWebsite.Api.dll
+D:\Demo\m4\ColorWebsite.Api\obj\Debug\ColorWebsite.Api.pdb
+D:\Demo\m4\ColorWebsite.Api\bin\Antlr3.Runtime.dll
+D:\Demo\m4\ColorWebsite.Api\bin\System.Web.Optimization.dll
+D:\Demo\m4\ColorWebsite.Api\bin\WebGrease.dll
+D:\Demo\m4\ColorWebsite.Api\bin\Antlr3.Runtime.pdb
+D:\Demo\m4\ColorWebsite.Api\bin\System.Web.Optimization.xml
+D:\Demo\m4\ColorWebsite.Api\bin\ColorWebsite.Api.XML
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\ColorWebsite.Api.XML
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\obj\Debug\ColorWebsite.Api.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\obj\Debug\ColorWebsite.Api.pdb
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\ColorWebsite.Api.dll.config
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\ColorWebsite.Api.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\ColorWebsite.Api.pdb
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\Antlr3.Runtime.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\EntityFramework.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\Newtonsoft.Json.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\Swashbuckle.Core.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.Web.Http.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.Web.Optimization.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\WebActivatorEx.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\WebGrease.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\EntityFramework.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.Web.Optimization.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\Newtonsoft.Json.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.Web.Http.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.Api\bin\System.Web.Http.WebHost.xml

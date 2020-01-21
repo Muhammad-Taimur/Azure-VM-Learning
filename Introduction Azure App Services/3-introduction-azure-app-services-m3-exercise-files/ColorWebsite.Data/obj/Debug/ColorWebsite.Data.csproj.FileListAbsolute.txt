@@ -1,0 +1,184 @@
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.Net4.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\App.config
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll.config
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.Entity.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.Tables.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Data.Edm.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Data.OData.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Net.Http.Formatting.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Spatial.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Web.Http.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Web.Http.OData.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.Net4.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.Entity.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.Tables.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Data.Edm.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Data.OData.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Net.Http.Formatting.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Spatial.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Web.Http.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Web.Http.OData.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Azure.Mobile.Server.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\de\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\es\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\it\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.csprojResolveAssemblyReference.cache
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.Migrations.CreateInitial.resources
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.csproj.GenerateResource.Cache
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\App.config
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll.config
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.pdb
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.Entity.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.Tables.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Spatial.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Web.Http.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Web.Http.OData.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.pdb
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.Entity.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Azure.Mobile.Server.Tables.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Spatial.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Web.Http.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\System.Web.Http.OData.xml
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.csprojResolveAssemblyReference.cache
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.Migrations.CreateInitial.resources
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.csproj.GenerateResource.Cache
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.dll
+C:\Users\Barry Luijbregts\Documents\Results\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.pdb

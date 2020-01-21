@@ -1,0 +1,20 @@
+D:\Demo\m4\ColorWebsite.ApiTest\bin\Debug\ColorWebsite.ApiTest.exe.config
+D:\Demo\m4\ColorWebsite.ApiTest\bin\Debug\ColorWebsite.ApiTest.exe
+D:\Demo\m4\ColorWebsite.ApiTest\bin\Debug\ColorWebsite.ApiTest.pdb
+D:\Demo\m4\ColorWebsite.ApiTest\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Demo\m4\ColorWebsite.ApiTest\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\m4\ColorWebsite.ApiTest\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\Demo\m4\ColorWebsite.ApiTest\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\m4\ColorWebsite.ApiTest\obj\Debug\ColorWebsite.ApiTest.csprojResolveAssemblyReference.cache
+D:\Demo\m4\ColorWebsite.ApiTest\obj\Debug\ColorWebsite.ApiTest.exe
+D:\Demo\m4\ColorWebsite.ApiTest\obj\Debug\ColorWebsite.ApiTest.pdb
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\bin\Debug\ColorWebsite.ApiTest.exe.config
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\bin\Debug\ColorWebsite.ApiTest.exe
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\bin\Debug\ColorWebsite.ApiTest.pdb
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\obj\Debug\ColorWebsite.ApiTest.csprojResolveAssemblyReference.cache
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\obj\Debug\ColorWebsite.ApiTest.exe
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\obj\Debug\ColorWebsite.ApiTest.pdb
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introduction-azure-app-services\introduction-azure-app-services-m4\results\demo\ColorWebsite.ApiTest\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,32 @@
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\App.config
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll.config
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.csprojResolveAssemblyReference.cache
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\bin\Debug\App.config
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll.config
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.pdb
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\bin\Debug\EntityFramework.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\bin\Debug\EntityFramework.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.pdb
+C:\Demo\ColorWebsite.Data\bin\Debug\App.config
+C:\Demo\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll.config
+C:\Demo\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.dll
+C:\Demo\ColorWebsite.Data\bin\Debug\ColorWebsite.Data.pdb
+C:\Demo\ColorWebsite.Data\bin\Debug\EntityFramework.dll
+C:\Demo\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Demo\ColorWebsite.Data\bin\Debug\EntityFramework.xml
+C:\Demo\ColorWebsite.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Demo\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.csprojResolveAssemblyReference.cache
+C:\Demo\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.dll
+C:\Demo\ColorWebsite.Data\obj\Debug\ColorWebsite.Data.pdb

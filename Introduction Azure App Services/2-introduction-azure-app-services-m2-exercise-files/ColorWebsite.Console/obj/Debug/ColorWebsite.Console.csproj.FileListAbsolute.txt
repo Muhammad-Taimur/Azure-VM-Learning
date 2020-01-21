@@ -1,0 +1,81 @@
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\ConsoleApplication1.exe.config
+D:\Demo\ColorWebsite\ColorWebsite.Console\obj\Debug\ConsoleApplication1.exe
+D:\Demo\ColorWebsite\ColorWebsite.Console\obj\Debug\ConsoleApplication1.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\ConsoleApplication1.exe
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\ConsoleApplication1.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Hyak.Common.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.WindowsAzure.Management.WebSites.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\System.Net.Http.Extensions.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\System.Net.Http.Primitives.dll
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Hyak.Common.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.NetFramework.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Microsoft.WindowsAzure.Management.WebSites.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\System.Net.Http.Extensions.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\bin\Debug\System.Net.Http.Primitives.xml
+D:\Demo\ColorWebsite\ColorWebsite.Console\obj\Debug\ColorWebsite.Console.csproj.App.config
+D:\Demo\ColorWebsite\ColorWebsite.Console\obj\Debug\ColorWebsite.Console.csprojResolveAssemblyReference.cache
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\ConsoleApplication1.exe
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Hyak.Common.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.WindowsAzure.Management.WebSites.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Hyak.Common.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.NetFramework.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Microsoft.WindowsAzure.Management.WebSites.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\obj\Debug\ColorWebsite.Console.csproj.App.config
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\obj\Debug\ColorWebsite.Console.csprojResolveAssemblyReference.cache
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\obj\Debug\ConsoleApplication1.exe
+C:\Users\Barry Luijbregts\OneDrive\Documents\Pluralsight\introducing-azure-app-services\introducing-azure-app-services-m2\result\Demo\ColorWebsite.Console\obj\Debug\ConsoleApplication1.pdb
+C:\Demo\ColorWebsite.Console\bin\Debug\ConsoleApplication1.exe.config
+C:\Demo\ColorWebsite.Console\bin\Debug\ConsoleApplication1.exe
+C:\Demo\ColorWebsite.Console\bin\Debug\ConsoleApplication1.pdb
+C:\Demo\ColorWebsite.Console\bin\Debug\Hyak.Common.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.WindowsAzure.Management.WebSites.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\System.Net.Http.Extensions.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\System.Net.Http.Primitives.dll
+C:\Demo\ColorWebsite.Console\bin\Debug\Hyak.Common.xml
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.xml
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Azure.Common.NetFramework.xml
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Demo\ColorWebsite.Console\bin\Debug\Microsoft.WindowsAzure.Management.WebSites.xml
+C:\Demo\ColorWebsite.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Demo\ColorWebsite.Console\bin\Debug\System.Net.Http.Extensions.xml
+C:\Demo\ColorWebsite.Console\bin\Debug\System.Net.Http.Primitives.xml
+C:\Demo\ColorWebsite.Console\obj\Debug\ColorWebsite.Console.csproj.App.config
+C:\Demo\ColorWebsite.Console\obj\Debug\ColorWebsite.Console.csprojResolveAssemblyReference.cache
+C:\Demo\ColorWebsite.Console\obj\Debug\ConsoleApplication1.exe
+C:\Demo\ColorWebsite.Console\obj\Debug\ConsoleApplication1.pdb

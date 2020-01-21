@@ -1,0 +1,11 @@
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Release\App.config
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Release\ColorWebsite.Data.dll.config
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Release\ColorWebsite.Data.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Release\ColorWebsite.Data.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Release\EntityFramework.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Release\EntityFramework.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Release\ColorWebsite.Data.dll
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Release\ColorWebsite.Data.pdb
+D:\Demo\ColorWebsite\ColorWebsite.Data\obj\Release\ColorWebsite.Data.csprojResolveAssemblyReference.cache

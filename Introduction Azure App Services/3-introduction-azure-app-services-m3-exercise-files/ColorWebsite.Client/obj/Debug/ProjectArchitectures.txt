@@ -1,0 +1,1 @@
+D:\Demo\ColorWebsite\ColorWebsite.Client\ColorWebsite.Client.csproj;neutral
